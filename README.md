@@ -152,8 +152,7 @@ This plan provides a structured approach to building a scalable and secure onlin
 
 ---
 
-**Prepared By:** [sohel Mollick]
-**Date:** [2025 , feb]
+---
 
 
 
@@ -161,8 +160,11 @@ This plan provides a structured approach to building a scalable and secure onlin
 admin token :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YjBiZTlkMThhNzQ3NDRjNDQ2MDIwZSIsImlhdCI6MTczOTYzNjM4MX0.qsVAVFr8cNueCVOtdhLSFEU7y6JE7-RFdU95aZjkZ2I
 
 
-exapmple user token: 
+ex1:
 user : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YjBiZjBlMThhNzQ3NDRjNDQ2MDIxMCIsImlhdCI6MTczOTYzNjQ5NH0.0fE48jEu3-ticXEqg1pC5RchUboC-mjEEXrGS7hKpAU
 
 
 
+---
+**Prepared By:**  [sohel Mollick]
+**Date:** [2025 , feb]
