@@ -1,9 +1,11 @@
 const express = require('express');
 const app = express();
 const db = require('./db');
+const cors = require('cors');
+
 require('dotenv').config();
 const bodyParser = require('body-parser');
-
+// app.use(cors()) //for fornt end
 // Middleware setup
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
